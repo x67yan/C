@@ -1,1 +1,1 @@
-### Pool ADT provides dynamic, resizable character arrays. 
+Pool ADT provides dynamic, resizable character arrays. 
